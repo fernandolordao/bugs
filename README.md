@@ -1,2 +1,20 @@
-# bugs
-List of bugs found through the default user interface and no-privileged access.
+# Public list of bugs found by myself
+
+All these bugs were found by myself while using the **default end-user interface** with **NO privileged access**. I do NOT receive any money or any other benefits, but I expect quality improvement on the respective services because I need to use them frequently.
+
+I created this public catalog due to the chronic lack of attention provided by companies when I tried to make reports. So, this is my last try to catch someone's attention and help companies to understand the importance of taking care of their bugs.
+
+The list that follows shows a brief description of the bugs and respective links to further details. On the page/directory of each bug, there are an extended description and artifacts like screenshots and videos, all of them obfuscated accordingly.
+
+FOR COMPANIES: If you need undisclosed data, refer to the channel where I initially reported according to each bug, or give me the honor of hearing from you.
+
+
+## Bugs list
+
+* **[Bug #0](catalog/bug00) (The last straw)**<br>
+Company: [Banco Inter](https://www.bancointer.com.br/).<br>
+Brief: During a payment, instead of my own data the system has exposed private information of another person. 
+
+* **[Bug #1](https://youtu.be/XKQqZwMnzV4) (Inception)**<br>
+Company: [Banco Inter](https://www.bancointer.com.br/).<br>
+Brief: While reporting bug 0, another issue popped up. I noticed that all the chat data was accessable before the session starts and even when the session has already expired.
