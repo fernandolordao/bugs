@@ -17,4 +17,4 @@ Brief: During a payment, instead of my own data the system has exposed private i
 
 * **[Bug #1](catalog/bug01) (Inception)**<br>
 Company: [Banco Inter](https://www.bancointer.com.br/).<br>
-Brief: While reporting bug 0, another issue popped up. I noticed that all the chat data was accessable before the session starts and even when the session has already expired.
+Brief: While reporting Bug #0, another issue popped up. I noticed that all the chat data was accessable before the session starts and even when the session has already expired.
