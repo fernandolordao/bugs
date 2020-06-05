@@ -1,8 +1,8 @@
-# Bug #1 (Inception)
+# Bug #1
 
 | Property | Value |
 |---|---|
-| Given name | The last straw |
+| Given name | **Inception** |
 | Feature effected | Customer Chat Service |
 | Type | Privacy issue |
 | Company | [Banco Inter](https://www.bancointer.com.br/) |

@@ -1,8 +1,8 @@
-# Bug #0 (The last straw)
+# Bug #0
 
 | Property | Value |
 |---|---|
-| Given name | The last straw |
+| Given name | **The last straw** |
 | Feature effected | Bills Payment |
 | Type | Privacy issue |
 | Company | [Banco Inter](https://www.bancointer.com.br/) |
