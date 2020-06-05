@@ -15,6 +15,6 @@ FOR COMPANIES: If you need undisclosed data, refer to the channel where I initia
 Company: [Banco Inter](https://www.bancointer.com.br/).<br>
 Brief: During a payment, instead of my own data the system has exposed private information of another person. 
 
-* **[Bug #1](https://youtu.be/XKQqZwMnzV4) (Inception)**<br>
+* **[Bug #1](catalog/bug00) (Inception)**<br>
 Company: [Banco Inter](https://www.bancointer.com.br/).<br>
 Brief: While reporting bug 0, another issue popped up. I noticed that all the chat data was accessable before the session starts and even when the session has already expired.
