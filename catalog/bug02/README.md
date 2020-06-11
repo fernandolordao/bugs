@@ -12,3 +12,9 @@
 | Feedback date | N/A |
 
 I had a bill with a due date to 07/JUN/2020 and I paid it on 01/JUN/2020. Nonetheless, on my PDF receipt, both dates appear 01/JUN/2020.
+
+This is the receipt:
+![the receipt](artifacts/bug02-inter_pdf.jpg)
+
+This is the confirmation screen:
+![the screen](artifacts/bug02-inter_web.jpg)
