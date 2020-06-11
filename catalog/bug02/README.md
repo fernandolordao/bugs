@@ -3,7 +3,7 @@
 | Property | Value |
 |---|---|
 | Given name | **Due date** |
-| Feature effected | Customer Chat Service |
+| Feature effected | Payment |
 | Type | Presentation issue |
 | Company | [Banco Inter](https://www.bancointer.com.br/) |
 | Reported on | June 11th, 2020 |

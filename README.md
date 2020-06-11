@@ -22,3 +22,15 @@ Brief: While reporting Bug #0, another issue popped up. I noticed that all the c
 * **[Bug #2](catalog/bug02) (Due date)**<br>
 Company: [Banco Inter](https://www.bancointer.com.br/).<br>
 Brief: The due date field presents the same value of the payment date on the final receipt.
+
+* **[Bug #3](catalog/bug03) (Past due date)**<br>
+Company: [Banco Inter](https://www.bancointer.com.br/).<br>
+Brief: App does not accept past due dates.
+
+* **[Bug #4](catalog/bug04) (Services bar code)**<br>
+Company: [Banco Inter](https://www.bancointer.com.br/).<br>
+Brief: App scanner does not reconize bar code of recurrent services ("convênios").
+
+* **[Bug #5](catalog/bug05) (Invalid bar code)**<br>
+Company: [Banco Inter](https://www.bancointer.com.br/).<br>
+Brief: App says "Invalid bar code" ("Código de barras inválido") when fail to reconize.
