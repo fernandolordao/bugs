@@ -6,7 +6,7 @@
 | Feature effected | Payment |
 | Type | Business logic |
 | Company | [Banco Inter](https://www.bancointer.com.br/) |
-| Reported on | June 11th, 2020 |
+| Reported on | September 15th, 2019 |
 | Reporting channel | Customer Chat Service |
 | Feedback | N/A |
 | Feedback date | N/A |
